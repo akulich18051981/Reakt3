@@ -1,0 +1,32 @@
+[
+  {
+    "categories": "Супер сырный",
+    "imeges": "photo1",
+    "weight": "512г",
+    "price": "550₽",
+    "nam": 1,
+    "sum": 550,
+    "totalsum": 550,
+    "id": 1
+  },
+  {
+    "categories": "Чили-дог",
+    "imeges": "photo2",
+    "weight": "350г",
+    "price": "300₽",
+    "nam": 1,
+    "sum": 300,
+    "totalsum": 300,
+    "id": 2
+  },
+  {
+    "categories": "Ассорти Макаронс",
+    "imeges": "photo3",
+    "weight": "20шт 240г",
+    "price": "1990₽",
+    "nam": 1,
+    "sum": 1990,
+    "totalsum": 1990,
+    "id": 3
+  }
+]

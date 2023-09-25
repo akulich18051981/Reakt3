@@ -1,0 +1,48 @@
+.Navigation {
+  font-family: "Nunito", sans-serif;
+  max-width: 1231px;
+  height: 40px;
+}
+.icon {
+  margin-top: 40px;
+  padding: 8px 24px 8px 14px;
+}
+.icons{
+  vertical-align:sub;
+  
+}
+.icon:hover {
+  background: rgba(255, 171, 8, 1);
+  border-radius: 50px;
+}
+
+  
+.active{
+  background: rgba(255, 171, 8, 1);
+}
+
+.title {
+  background:none;
+  border:none;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 1);
+  margin-left: 8px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.nav {
+  margin-top: 47px;
+
+  display: flex;
+  list-style: none;
+}
+
+.sp {
+  margin-left: 14px;
+  white-space: nowrap;
+}
+.sp:hover {
+  cursor: pointer;
+}

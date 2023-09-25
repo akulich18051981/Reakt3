@@ -1,0 +1,404 @@
+[
+  {
+    "Burgers": [
+      {
+        "title": "Бургеры",
+        "categories": "Мясная бомба",
+        "imeges": "burger1",
+        "weight": "512г",
+        "price": "550₽",
+        "id": 1
+      },
+      {
+        "categories": "Супер сырный",
+        "imeges": "burger2",
+        "weight": "512г",
+        "price": "550₽",
+        "id": 2
+      },
+      {
+        "categories": "Сытный",
+        "imeges": "burger3",
+        "weight": "580г",
+        "price": "639₽",
+        "id": 3
+      },
+      {
+        "categories": "Тяжелый удар",
+        "imeges": "burger4",
+        "weight": "470г",
+        "price": "480₽",
+        "id": 4
+      },
+      {
+        "categories": "Вечная классика",
+        "imeges": "burger5",
+        "weight": "450г",
+        "price": "450₽",
+        "id": 5
+      },
+      {
+        "categories": "Итальянский",
+        "imeges": "burger6",
+        "weight": "510г",
+        "price": "560₽",
+        "id": 6
+      }
+    ]
+  },
+  {
+    "Deserts": [
+      {
+        "title": "Десерты",
+        "categories": "Ассорти Макаронс",
+        "imeges": "dessrt1",
+        "weight": "20шт 240г",
+        "price": "1990₽",
+        "id": 7
+      },
+      {
+        "categories": "Ассорти сборное",
+        "imeges": "dessrt2",
+        "weight": "15шт 480г",
+        "price": "1140₽",
+        "id": 8
+      },
+      {
+        "categories": "Пагода Черный лес",
+        "imeges": "dessrt3",
+        "weight": "20шт 780г",
+        "price": "2360₽",
+        "id": 9
+      },
+      {
+        "categories": "Пирожное Шоколадное зеркало",
+        "imeges": "dessrt4",
+        "weight": "24шт 680г",
+        "price": "2270₽",
+        "id": 10
+      },
+      {
+        "categories": "Чизкейк манго",
+        "imeges": "dessrt5",
+        "weight": "6шт 500г",
+        "price": "840₽",
+        "id": 11
+      },
+      {
+        "categories": "Торт Миндальный",
+        "imeges": "dessrt6",
+        "weight": "850г",
+        "price": "2290₽",
+        "id": 12
+      }
+    ]
+  },
+  {
+    "Hotdogs": [
+      {
+        "title": "Хот-доги",
+        "categories": "Амстер-дог",
+        "imeges": "hotdog1",
+        "weight": "300г",
+        "price": "280₽",
+        "id": 13
+      },
+      {
+        "categories": "Баффоло-дог",
+        "imeges": "hotdog2",
+        "weight": "430г",
+        "price": "550₽",
+        "id": 14
+      },
+      {
+        "categories": "Брекфаст-дог",
+        "imeges": "hotdog3",
+        "weight": "470г",
+        "price": "280₽",
+        "id": 15
+      },
+      {
+        "categories": "Греческий хот-дог",
+        "imeges": "hotdog4",
+        "weight": "470г",
+        "price": "480₽",
+        "id": 16
+      },
+      {
+        "categories": "Французская классика",
+        "imeges": "hotdog5",
+        "weight": "310г",
+        "price": "260₽",
+        "id": 17
+      },
+      {
+        "categories": "Чили-дог",
+        "imeges": "hotdog6",
+        "weight": "350г",
+        "price": "300₽",
+        "id": 18
+      }
+    ]
+  },
+  {
+    "Kombos": [
+      {
+        "title": "Комбо",
+        "categories": "3 ролла",
+        "imeges": "kombo1",
+        "weight": "670г",
+        "price": "849₽",
+        "id": 19
+      },
+      {
+        "categories": "Будь в команде",
+        "imeges": "kombo2",
+        "weight": "1760г",
+        "price": "1349₽",
+        "id": 20
+      },
+      {
+        "categories": "Горячая Цыпа",
+        "imeges": "kombo3",
+        "weight": "780г",
+        "price": "649₽",
+        "id": 21
+      },
+      {
+        "categories": "Курочкa фри",
+        "imeges": "kombo4",
+        "weight": "840г",
+        "price": "449₽",
+        "id": 22
+      },
+      {
+        "categories": "Мега хит",
+        "imeges": "kombo5",
+        "weight": "1690г",
+        "price": "1449₽",
+        "id": 23
+      },
+      {
+        "categories": "C фреш-роллом_",
+        "imeges": "kombo6",
+        "weight": "850г",
+        "price": "399₽",
+        "id": 23
+      }
+    ]
+  },
+  {
+    "Pizzas": [
+      {
+        "title": "Пицца",
+        "categories": "Гавайская",
+        "imeges": "pizza1",
+        "weight": "550г",
+        "price": "459₽",
+        "id": 25
+      },
+      {
+        "categories": "Дьябло",
+        "imeges": "pizza2",
+        "weight": "600г",
+        "price": "499₽",
+        "id": 26
+      },
+      {
+        "categories": "Капричоза",
+        "imeges": "pizza3",
+        "weight": "550г",
+        "price": "459₽",
+        "id": 27
+      },
+      {
+        "categories": "Маргарита",
+        "imeges": "pizza4",
+        "weight": "400г",
+        "price": "349₽",
+        "id": 28
+      },
+      {
+        "categories": "Поло Песто",
+        "imeges": "pizza5",
+        "weight": "530г",
+        "price": "529₽",
+        "id": 29
+      },
+      {
+        "categories": "Римская",
+        "imeges": "pizza6",
+        "weight": "610г",
+        "price": "479₽",
+        "id": 30
+      }
+    ]
+  },
+  {
+    "Souces": [
+      {
+        "title": "Соусы",
+        "categories": "Барбекю",
+        "imeges": "sauce1",
+        "weight": "50г",
+        "price": "99₽",
+        "id": 31
+      },
+      {
+        "categories": "Блю-Чиз",
+        "imeges": "sauce2",
+        "weight": "50г",
+        "price": "129₽",
+        "id": 32
+      },
+      {
+        "categories": "Песто",
+        "imeges": "sauce3",
+        "weight": "50г",
+        "price": "129₽",
+        "id": 33
+      },
+      {
+        "categories": "Сальса",
+        "imeges": "sauce4",
+        "weight": "50г",
+        "price": "99₽",
+        "id": 34
+      },
+      {
+        "categories": "Тартар",
+        "imeges": "sauce5",
+        "weight": "50г",
+        "price": "129₽",
+        "id": 35
+      },
+      {
+        "categories": "Терияки",
+        "imeges": "sauce6",
+        "weight": "50г",
+        "price": "99₽",
+        "id": 36
+      }
+    ]
+  },
+  {
+    "Shawarmas": [
+      {
+        "title": "Шаурма",
+        "categories": "Шаверма на тарелке куриная",
+        "imeges": "shawarma1",
+        "weight": "635г",
+        "price": "350₽",
+        "id": 37
+      },
+      {
+        "categories": "Шаверма свиная",
+        "imeges": "shawarma2",
+        "weight": "520г",
+        "price": "280₽",
+        "id": 38
+      },
+      {
+        "categories": "Шеф с курицей XL",
+        "imeges": "shawarma3",
+        "weight": "415г",
+        "price": "245₽",
+        "id": 39
+      }
+    ]
+  },
+  {
+    "Snackss": [
+      {
+        "title": "Закуски",
+        "categories": "Ассорти из сыров и овощей",
+        "imeges": "snacks1",
+        "weight": "430г",
+        "price": "1380₽",
+        "id": 40
+      },
+      {
+        "categories": "Закуска по-итальянски и соленья",
+        "imeges": "snacks2",
+        "weight": "970г",
+        "price": "2790₽",
+        "id": 41
+      },
+      {
+        "categories": "Маринованные овощи",
+        "imeges": "snacks3",
+        "weight": "460г",
+        "price": "780₽",
+        "id": 42
+      },
+      {
+        "categories": "Мортаделла, рулет из ветчины",
+        "imeges": "snacks4",
+        "weight": "1000г",
+        "price": "2090₽",
+        "id": 43
+      },
+      {
+        "categories": "Моцарелла с черри и соусом «Песто»",
+        "imeges": "snacks5",
+        "weight": "600г",
+        "price": "1690₽",
+        "id": 44
+      },
+      {
+        "categories": "Сельдь с картофелем",
+        "imeges": "snacks6",
+        "weight": "760г",
+        "price": "1170₽",
+        "id": 45
+      }
+    ]
+  },
+  {
+    "Woks": [
+      {
+        "title": "Вок",
+        "categories": "Карри",
+        "imeges": "wok1",
+        "weight": "230г",
+        "price": "299₽",
+        "id": 46
+      },
+      {
+        "categories": "Морской ",
+        "imeges": "wok2",
+        "weight": "200г",
+        "price": "379₽",
+        "id": 47
+      },
+      {
+        "categories": "Паназиатский",
+        "imeges": "wok3",
+        "weight": "200г",
+        "price": "379₽",
+        "id": 48
+      },
+      {
+        "categories": "С рисом классический ",
+        "imeges": "wok4",
+        "weight": "230г",
+        "price": "269₽",
+        "id": 49
+      },
+      {
+        "categories": "С цыплёнком гриль ",
+        "imeges": "wok5",
+        "weight": "230г",
+        "price": "289₽",
+        "id": 50
+      },
+      {
+        "categories": "Том ям с креветками ",
+        "imeges": "wok6",
+        "weight": "200г",
+        "price": "379₽",
+        "id": 51
+      }
+    ]
+  }
+]

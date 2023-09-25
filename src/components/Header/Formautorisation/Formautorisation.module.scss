@@ -1,0 +1,81 @@
+.App {
+  font-family: Nunito;
+  width: 400px;
+  height: 380px;
+  margin-top: 50px;
+  box-shadow: 0px 10px 20px 0px #0000001a;
+  text-align: center;
+  border-radius: 10px;
+  background: #ffffff;
+  z-index: 100;
+  padding-top: 30px;
+}
+.conteynerdiv {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+
+.formbtn {
+  margin-top: 20px;
+  margin-bottom: 70px;
+  width: 320px;
+  height: 50px;
+  color: white;
+  background:  rgba(255, 171, 8, 1);
+  border: 1px solid  rgba(255, 171, 8, 1);
+  border-radius: 15px;
+  cursor: pointer;
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.formbtn:hover {
+  background:rgba(255, 112, 32, 1);
+  box-shadow: 0px 5px 10px 0px #00000033;
+}
+
+.formbtn:active {
+  background: rgb(253, 155, 98);
+}
+.AppForm {
+  width: 300px;
+  height: 40px;
+  margin: 0 auto 20px auto;
+  border-radius: 15px;
+  color: #000000;
+  padding-left: 15px;
+  font-family: Nunito;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  border: 1px solid #d7d7d7;
+}
+
+.AppForm:hover {
+  width: 300px;
+  height: 40px;
+  top: 90px;
+  left: 20px;
+  box-shadow: 0px 10px 20px 0px #c9c9c9;
+  border: 1px solid #d7d7d7;
+}
+
+.AppForm:active {
+  border: 1px solid #d7d7d7;
+}
+.closebtn{
+  margin-inline-end: -350px;
+  border: none;
+  background:none;
+  cursor: pointer;
+  font-size: larger;
+  
+}

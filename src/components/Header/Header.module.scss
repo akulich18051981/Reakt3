@@ -1,0 +1,116 @@
+.Header {
+  text-align: center;
+  width: 100%;
+  height: 466px;
+  background-image: url(./Images/bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.img {
+  margin-top: 22px;
+  width: 152px;
+  height: 33px;
+}
+.block {
+  margin-bottom: 24px;
+  display: flex;
+  justify-content: center;
+}
+.pic {
+  margin-right: 21px;
+  width: 326px;
+  height: 326px;
+}
+.title {
+  margin-top: 20px;
+  font-family: Nunito;
+  font-size: 50px;
+  font-weight: 800;
+  text-align: left;
+  line-height: 10px;
+}
+.titlewhite {
+  color: rgba(255, 255, 255, 1);
+}
+.titleorange {
+  color: rgba(255, 92, 0, 1);
+}
+.cena {
+  color:rgba(255, 255, 255, 1);
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+  margin-top: 80px;
+}
+.registrationform{
+display: flex;
+justify-content: end;
+margin-right: 75px;
+padding-top: 10px;
+}
+
+.enter{
+margin-right: 10px;
+width: Fixed (268px);
+  height: Fixed (40px);
+  top: 371px;
+  left: 16px;
+  padding: 5px 0px 5px 5px;
+  border-radius: 12px;
+  gap: 10px;
+  background-color:  rgba(255, 171, 8, 1);
+  border: none;
+  color: rgba(255, 255, 255, 1);
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  cursor: pointer;
+}
+.enter:hover {
+   color:black;
+  
+  
+}
+.registration{
+  width: Fixed (268px);
+  height: Fixed (40px);
+  top: 371px;
+  left: 16px;
+  padding: 5px 5px 0px 5px;
+  border-radius: 12px;
+  gap: 10px;
+  background-color:  rgba(255, 171, 8, 1);
+  border: none;
+  color: rgba(255, 255, 255, 1);
+  font-family: Nunito;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  cursor: pointer;
+}
+.registration:hover {
+  color:black;
+  
+}
+.basketimg{
+  width: 30px;
+  padding-left: 5px;
+  margin-top: auto;
+  border:none;
+  background: none;
+}
+.btnbasket{
+  width: 30px;
+  padding-left: 5px;
+  margin-top: auto;
+  border:none;
+  background: none;
+  cursor: pointer;
+}
