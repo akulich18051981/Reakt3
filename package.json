@@ -10,11 +10,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.15.0",
-<<<<<<< HEAD
+
     "react-scripts": "^5.0.1",
-=======
-    "react-scripts": "5.0.1",
->>>>>>> 306d49f861313c6ad6f76fffb5b1bd18beee3c74
     "sass": "^1.65.1",
     "web-vitals": "^2.1.4"
   },
@@ -42,13 +39,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
+
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "",
   "license": "ISC"
-=======
+
   }
->>>>>>> 306d49f861313c6ad6f76fffb5b1bd18beee3c74
-}
+
+

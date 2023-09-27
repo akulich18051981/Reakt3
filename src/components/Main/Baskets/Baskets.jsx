@@ -7,7 +7,7 @@ import { NavLink } from 'react-router-dom'
 function Basket({id,openBasketall,basket,setBasketCards}) {
 
     
-   
+   console.log(basket);
 
     function basketproduct() {
         if
